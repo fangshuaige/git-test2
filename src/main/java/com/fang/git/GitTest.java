@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("红红火火恍恍惚惚");
         System.out.println("擦擦擦擦擦擦");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
